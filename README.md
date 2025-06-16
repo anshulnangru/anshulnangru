@@ -21,7 +21,6 @@
 | Salon Management System | C++ | User/Admin based service booking app |
 | Unit Converter App | Kotlin | Android app to convert between units |
 | Call Blocker App (WIP) | Kotlin | Automatically blocks unwanted calls |
-| ML Classifiers | Python | Classification models using scikit-learn |
 | Shopping List App | Kotlin | Minimalist shopping list with local storage |
 
 ---
