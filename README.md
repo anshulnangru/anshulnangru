@@ -14,15 +14,7 @@
 
 ---
 
-## 🚀 Projects Worth Checking Out
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| Salon Management System | C++ | User/Admin based service booking app |
-| Unit Converter App | Kotlin | Android app to convert between units |
-| Shopping List App | Kotlin | Minimalist shopping list with local storage |
-
----
 
 ## 🛠️ Tools & Technologies
 
