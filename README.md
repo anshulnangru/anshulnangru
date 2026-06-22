@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anshul Nangru
 
-🎓 BCA Student | 💻 Developer | 🧠 Machine Learning Enthusiast | 📱 Android (Kotlin) Learner  
+🎓 BCA Student | 💻 Developer | 🧠 Machine Learning Enthusiast | AI   
 🌍 From India | 🏋️‍♂️ Fitness Oriented | 🧩 Constant Learner  
 
 ---
