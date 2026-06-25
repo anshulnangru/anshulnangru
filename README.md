@@ -24,12 +24,11 @@
 ---
 
 ## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul%20Nangru-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshul-nangru/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul%20Nangru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anshul-nangru)
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulnangru56@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-anshulnangru-181717?style=for-the-badge&logo=github)](https://github.com/anshulnangru)
+[![GitHub](https://img.shields.io/badge/GitHub-anshulnangru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshulnangru)
 
 ---
 
