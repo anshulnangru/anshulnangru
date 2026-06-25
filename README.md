@@ -10,7 +10,7 @@
 - 🔭 Currently building: Kotlin apps + Machine Learning Projects
 - 🌱 Learning: Kotlin, App Development, Machine Learning
 - 📈 Working on: Making impactful projects for my GitHub & resume
-- 💬 Ask me about: C, C++, Python, Java (basic), SQL, and ML basics
+- 💬 Ask me about: C, C++, Python, Java (basic), SQL, and ML
 
 ---
 
