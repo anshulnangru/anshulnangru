@@ -1,27 +1,20 @@
 # 👋 Hi, I'm Anshul Nangru
 
-🎓 BCA Student | 💻 Developer | 🧠 Machine Learning Enthusiast | AI   
+🎓 BCA Student | 💻 Developer | 🧠 Machine Learning Enthusiast | Generative AI   
 🌍 From India | 🏋️‍♂️ Fitness Oriented | 🧩 Constant Learner  
 
 ---
 
 ## 💡 About Me
 
-- 🔭 Currently building: Kotlin apps + Machine Learning Projects
-- 🌱 Learning: Kotlin, App Development, Machine Learning
+- 🔭 Currently building: Generative AI Applications+ Machine Learning Projects
+- 🌱 Learning: GenAI, Machine Learning
 - 📈 Working on: Making impactful projects for my GitHub & resume
-- 💬 Ask me about: C, C++, Python, Java (basic), SQL, and ML
+- 💬 Ask me about: C, C++, Python, Java (basic), SQL, and ML, GenAI
 
 ---
 
 
-
-## 🛠️ Tools & Technologies
-
-![Languages](https://skillicons.dev/icons?i=cpp,java,python,kotlin,html,css,js,sql)
-![Tools](https://skillicons.dev/icons?i=git,androidstudio,vscode)
-
----
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul%20Nangru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anshul-nangru)
